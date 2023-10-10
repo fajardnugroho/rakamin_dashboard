@@ -1,0 +1,12 @@
+name: Rakamin_Dashboard_Performance
+title: Rakamin_Dashboard_Performance
+username: fajarnugroho
+account: fajarnugroho
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9778215
+bundleId: 7701755
+url: https://fajarnugroho.shinyapps.io/Rakamin_Dashboard_Performance/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
